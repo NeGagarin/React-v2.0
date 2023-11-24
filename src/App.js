@@ -1,4 +1,4 @@
-
+import logo from './components/Navigation/logo.png';
 import './App.css';
 import Navigation from './components/Navigation/Navigation';
 
